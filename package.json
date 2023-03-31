@@ -1,0 +1,23 @@
+{
+  "name": "site-description",
+  "version": "1.0.5",
+  "description": "This package helps to extract the descrption of any site.",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "metadata",
+    "description",
+    "web",
+    "site",
+    "sitedescription",
+    "site description",
+    "description website"
+  ],
+  "author": "Himanshu Grover",
+  "license": "ISC",
+  "dependencies": {
+    "open-graph-scraper": "^5.0.3"
+  }
+}
